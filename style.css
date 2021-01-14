@@ -1,0 +1,40 @@
+.body{
+    font-family: 'Oswald', sans-serif;
+}
+#title{
+    color: rgb(116, 192, 45);
+    font-size: 50px;
+    line-height: 60px;
+    margin: 200px 0px 0px 0px;
+    font-weight: 700;
+}
+#colorful-name{
+    color: black;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 40px; 
+}
+header{
+    padding-bottom: 90px;
+}
+.btn-blue{
+    background-color: rgb(116, 192, 45);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+}
+.blue-font{
+    color: rgb(116, 192, 45);
+}
+
+.items img{
+    height: 500px;
+}
+.right-side{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.navBold li a{
+    font-weight: bold;
+}
